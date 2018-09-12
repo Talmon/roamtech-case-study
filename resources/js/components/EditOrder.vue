@@ -71,14 +71,12 @@
                         this.$notify({
                             group: 'foo',
                             title: 'Important Message',
-                            text: 'Product Updated!'
+                            text: 'Order Updated!'
                         });
                    })
                    .catch(err => console.log(err));
                 }
 
-            }
-
-            
+            }     
         }
 </script>

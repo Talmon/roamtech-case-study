@@ -39,7 +39,7 @@
           this.$notify({
               group: 'foo',
               title: 'Important Message',
-              text: 'Product Updated!'
+              text: 'Order Created!'
           });      
        })
     }
